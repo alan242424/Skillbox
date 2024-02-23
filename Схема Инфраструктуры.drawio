@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" modified="2024-02-23T10:05:06.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="sUDPPAY7YTUffu7pfJon" version="23.1.4" type="device">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W-u8dMn32VSFoCyLRjUe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" width="765" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-36" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1722" y="675" width="142" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-14" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="867.25" y="360" width="450" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-12" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="400" y="82.5" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-13" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="471.75" y="295" width="142" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="510.25" y="250" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-15" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="970" y="497" width="244.5" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-21" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1482.06" width="45.88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-22" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.356;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7d933b09d9755ecc-35" target="7d933b09d9755ecc-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-23" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.149;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7d933b09d9755ecc-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.9998621413645" y="369.502330242866" as="sourcePoint" />
+            <mxPoint x="960" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-26" value="" style="html=1;entryX=0.56;entryY=0.727;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=1;fontFamily=Verdana;fontSize=12;curved=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" parent="1" target="7d933b09d9755ecc-12" edge="1">
+          <mxGeometry x="0.9062" y="276" relative="1" as="geometry">
+            <mxPoint x="1030" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-35" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="450" width="286" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-37" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;КЛИЕНТ&lt;/font&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1760.75" y="695" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-38" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1760.25" y="610" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-40" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0.179;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.191;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="7d933b09d9755ecc-35" edge="1" source="7d933b09d9755ecc-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="610" as="sourcePoint" />
+            <mxPoint x="1610" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-42" value="СЕРВЕР&lt;font style=&quot;font-size: 27px;&quot;&gt; &lt;/font&gt;VPN" style="html=1;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=1;fontFamily=Verdana;fontSize=12;curved=0;rounded=0;entryX=0.012;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="7d933b09d9755ecc-14" target="7d933b09d9755ecc-35" edge="1">
+          <mxGeometry x="-1" y="742" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="760" />
+            </Array>
+            <mxPoint x="-836" y="392" as="offset" />
+            <mxPoint x="1200" y="710" as="sourcePoint" />
+            <mxPoint x="1950" y="477.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-5" value="" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.file_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1059.5" y="540" width="71" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="9ex-hO9RVvWXAl3pm6RE-1" value="" style="edgeStyle=none;rounded=0;html=1;entryX=0.739;entryY=0.633;entryPerimeter=0;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.74;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" parent="1" source="W-u8dMn32VSFoCyLRjUe-2" target="7d933b09d9755ecc-14" edge="1">
+          <mxGeometry x="-0.2479" y="229" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1390.118" y="217.05999999999995" as="sourcePoint" />
+            <mxPoint x="702" y="632" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ex-hO9RVvWXAl3pm6RE-3" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="7d933b09d9755ecc-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="510" as="sourcePoint" />
+            <mxPoint x="995" y="550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ex-hO9RVvWXAl3pm6RE-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Центр сертификации отправляет пакет с развертыванием сервера VPN&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=35;" parent="1" vertex="1">
+          <mxGeometry x="686" y="349" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9ex-hO9RVvWXAl3pm6RE-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=25;" parent="1" vertex="1">
+          <mxGeometry x="670" y="460" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f1AyR1qbKLhmLNnBkEpF-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;в ответ сервер VPN отправляет файл req на подпись удостоверяющему&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;центру&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=30;" parent="1" vertex="1">
+          <mxGeometry x="670" y="470" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f1AyR1qbKLhmLNnBkEpF-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;После дописания, файл&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;cr&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;t отправляется обратно серверу VPN&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=30;" parent="1" vertex="1">
+          <mxGeometry x="730.67" y="280.5" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f1AyR1qbKLhmLNnBkEpF-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Центр сертификации отправляет пакет с развертыванием клиента VPN&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="660" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f1AyR1qbKLhmLNnBkEpF-9" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;в ответ КЛИЕНТ VPN отправляет файл req на подпись удостоверяющему&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;центру&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="550" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f1AyR1qbKLhmLNnBkEpF-16" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;После дописания, файл&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;cr&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;t отправляется обратно серверу VPN&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=10;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="750" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-u8dMn32VSFoCyLRjUe-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;СЕРВЕР BACKUP&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-u8dMn32VSFoCyLRjUe-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;на сервере Backup будут храниться все deb пакеты по&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;развёртыванию сервера VPN,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;сервера PKI(CA) , клиентский deb пакет а так же пакет по настройки мониторинга Prometheus.&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;после развертывания удостоверяющего центра(pki) файлы ca.crt и ca.key копируются и отправляются с помощью утилиты SCP на сервер Backup, там они хранятся в директории к которой имеет доступ только администратор. Так же с сервера PKI раз в какой-то период будут отправляться копии файлов crt&amp;nbsp; созданных сертификатов для серверов и клиентов(сертификаты клиентов и серверов VPN подписываются на сервереPKI). копии приватных ключей при создании серверов VPN можно хранить также на сервере Backup. Имея эти все файлы в сохранности можно в случае потери сервера VPN или удостоверяющего центра восстановить их. Так же могут быть&amp;nbsp; скопированы файлы конфигурации VPN сервера&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2" width="700" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="W-u8dMn32VSFoCyLRjUe-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Удостоверяющий&lt;br&gt;ЦЕНТР&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1022.25" y="445" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
