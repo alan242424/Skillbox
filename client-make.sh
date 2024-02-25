@@ -44,7 +44,6 @@ EOF
 #Создание клиента
 cd /usr/share/easy-rsa 
 
-#!/bin/bash
 
 # Путь к директории pki
 pki_dir="/usr/share/easy-rsa/pki"
