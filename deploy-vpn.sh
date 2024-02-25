@@ -134,11 +134,12 @@ status /var/log/openvpn/openvpn-status.log
 log-append /var/log/openvpn/openvpn.log
 persist-tun
 persist-key
-verb 2
+verb 4
 daemon
 mode server
 user nobody
 group nogroup
+cipher AES-256-GCM
 EOF
 
 chown nobody:nogroup /etc/openvpn/server/server.conf
