@@ -16,13 +16,11 @@ mkdir /usr/share/easy-rsa/clients/$client_name
 cd $HOME
 mkdir -p client-vpn-$client_name/DEBIAN
 mkdir -p client-vpn-$client_name/usr/local/bin
-mkdir  client-vpn-$client_name/usr/local/bin/ovpn
 mkdir -p client-vpn-$client_name/etc/openvpn/keys
 mkdir -p client-vpn-$client_name/etc/openvpn/client
 cp /usr/share/easy-rsa/pki/ca.crt client-vpn-$client_name/etc/openvpn/keys/
 cp /usr/share/easy-rsa/pki/crl.pem  client-vpn-$client_name/etc/openvpn/keys/
 cp /usr/local/bin/client-make.sh client-vpn-$client_name/usr/local/bin/$client_name
-cp /usr/local/bin/ovpn.sh client-vpn-$client_name/usr/local/bin/ovpn/$client_name
 touch client-vpn-$client_name/DEBIAN/control
 cat <<EOF > client-vpn-$client_name/DEBIAN/control
 Package: client-vpn
