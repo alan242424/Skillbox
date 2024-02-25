@@ -187,7 +187,7 @@ iptables -A INPUT -i tun+ -j ACCEPT
 iptables -A FORWARD -i tun+ -o $actual_network_interface -m state --state RELATED,ESTABLISHED -j ACCEPT
 iptables -A FORWARD -i $actual_network_interface -o tun+ -m state --state RELATED,ESTABLISHED -j ACCEPT
 # Закрываем все остальные входящие соединения
-#iptables -A INPUT -j DROP
+iptables -A INPUT -j DROP
 
 
 # Сохраняем правила iptables
