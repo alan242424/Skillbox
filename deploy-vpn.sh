@@ -125,10 +125,9 @@ cert /etc/openvpn/keys/$server_name.crt
 key /etc/openvpn/keys/$server_name.key
 crl-verify /etc/openvpn/keys/crl.pem
 dh /etc/openvpn/keys/dh.pem
-topology subnet
 server 10.8.0.0 255.255.255.0
-route 10.8.0.0 255.255.255.0
-push "route 10.8.0.0 255.255.255.0"
+push "redirect-gateway def1"
+push "dhcp-option DNS 8.8.8.8"
 keepalive 10 120
 status /var/log/openvpn/openvpn-status.log
 log-append /var/log/openvpn/openvpn.log
