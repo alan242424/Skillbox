@@ -89,6 +89,16 @@ groups:
     annotations:
       title: "High memory usage on {{ $labels.instance }}"
 
+  - alert: DiskSpaceLow
+    expr: node_filesystem_free_bytes{mountpoint="/"} / node_filesystem_size_bytes{mountpoint="/"} * 100 < 10
+    for: 5m
+    labels:
+     severity: warning
+  annotations:
+    title: ""Available disk space on {{ $labels.instance }}is below 10%"
+    description: "Disk space usage has exceeded 90%. It is necessary to free up space or increase the available disk space."
+
+
 # Проверка статуса VPN клиентов
 - name: "Openvpn_Exporter"
   rules:
