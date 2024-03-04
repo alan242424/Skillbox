@@ -73,6 +73,18 @@ fi
 
 echo "CA и сертификаты успешно созданы."
 
+#правила iptables
+# Добавляем правила iptables для Node Exporter
+iptables -A INPUT -p tcp --dport 9100 -j ACCEPT # Node Exporter
+iptables -A OUTPUT -p tcp --dport 9100 -j ACCEPT # Node Exporter
+
+# Разрешим SSH-подключения
+iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+iptables -A OUTPUT -p tcp --dport 22 -j ACCEPT
+
+# Закрываем все остальные входящие соединения
+iptables -A INPUT -j DROP
+
 
 
 
